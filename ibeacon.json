@@ -1,6 +1,17 @@
 {
     "ibeaconId" : "7719C4A2-7719-C4A2-7719-C4A27719C4A2",
     "ibeaconRegionId" : "ag.ums.ipayst.test",
-    "welcomeMsg" : "🍔Welcome to UMT!",
-    "byeMsg" : "🍙Bye!"
+     "version" : 1,
+    "major":{
+        "1":
+        {
+        "welcomeMsg" : "🍔Welcome to UMT!",
+        "byeMsg" : "🍙Bye!"
+        },
+        "2":
+        {
+            "welcomeMsg" : "🏨Welcome from K!",
+            "byeMsg" : "🏨Bye, see you later!"
+        },
+
 }
