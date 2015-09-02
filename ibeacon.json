@@ -3,15 +3,10 @@
     "ibeaconRegionId" : "ag.ums.ipayst.test",
      "version" : 1,
     "major":{
-        "1":
+        "5408":
         {
         "welcomeMsg" : "¡Hola, bienvenido a Desigual!\nHoy, te hacemos un 10％ a la colección de Otoño/Invierno 2015",
         "byeMsg" : "Gracias por la visita"
-        },
-        "2":
-        {
-            "welcomeMsg" : "🏨Welcome from K!",
-            "byeMsg" : "🏨Bye, see you later!"
         }
     }
 }
